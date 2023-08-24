@@ -1,0 +1,27 @@
+{
+    "name": "pxt-com-eeprom-32",
+    "version": "1.0.0",
+    "description": "MakeCode package for the COM-EEPROM-32.",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "COM-EEPROM-32.ts",
+        "_locales/de/pxt-com-eeprom-32-jsdoc-strings.json",
+        "_locales/de/pxt-com-eeprom-32-strings.json",
+        "_locales/en/pxt-com-eeprom-32-jsdoc-strings.json",
+        "_locales/en/pxt-com-eeprom-32-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.11",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

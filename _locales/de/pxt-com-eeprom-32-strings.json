@@ -1,0 +1,6 @@
+{
+    "COMEEPROM32.eepromRead|block": "Byte von EEPROM-Adresse %addr lesen",
+    "COMEEPROM32.eepromWrite|block": "Schreiben von %dat in EEPROM-Adresse %addr",
+    "COMEEPROM32|block": "COM-EEPROM-32",
+    "{id:category}COMEEPROM32": "COM-EEPROM-32"
+  }

@@ -1,0 +1,7 @@
+{
+  "COMEEPROM32.eepromRead": "Reads data from the EEPROM storage",
+  "COMEEPROM32.eepromRead|param|address": "The address of the EEPROM where the data is supposed to be read from",
+  "COMEEPROM32.eepromWrite": "Writes data to the EEPROM storage",
+  "COMEEPROM32.eepromWrite|param|address": "The address of the EEPROM where the data is supposed to be stored",
+  "COMEEPROM32.eepromWrite|param|data": "The data that is supposed to be written"
+}
